@@ -7,6 +7,36 @@
   <link rel="stylesheet" type="text/css" href="https://icetcs.github.io/icetcs.css" />
   <link rel="icon" type="image/x-icon" href="https://icetcs.github.io/ru-icon.png">
 
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    .day-header {
+        background-color: #e6f7ff;
+        font-weight: bold;
+    }
+    .break {
+        background-color: #f0f0f0;
+        font-style: italic;
+    }
+  </style>
 </head>
 
 <body>
@@ -27,6 +57,10 @@
 
 <hr />
 <h3>News</h3>
+
+<p>
+<a href="#program">The program</a> is out, see below!
+</p>
 
 <p>
 The local policy prevents political statements in the presentation.
@@ -284,6 +318,308 @@ statements at ITP.
 <li><strong>Verifying an Efficient Algorithm for Computing Bernoulli Numbers</strong><br>Manuel Eberl, Peter Lammich</li>
 <li><strong>Verifying Datalog Reasoning with Lean</strong><br>Johannes Tantow, Lukas Gerlach, Stephan Mennicke, Markus Krötzsch</li>
 </ul>
+
+
+<h3 id="program">Program</h3>
+
+    <table>
+        <tr class="day-header">
+            <td colspan="4">Sunday 28 September</td>
+        </tr>
+        <tr>
+            <td>11:00-11:10</td>
+            <td colspan="2">Opening</td>
+            <td>Y. Forster, C. Keller</td>
+        </tr>
+        <tr>
+            <td>11:10-11:40</td>
+            <td rowspan="3">Using and formalizing ATPs</td>
+            <td>Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL</td>
+            <td>H. Lachnitt, M. Fleury, H. Barbosa, A. Reynolds, J. Jakpor, B. Andreotti, C. Barrett, H. Schurr, C. Tinelli</td>
+        </tr>
+        <tr>
+            <td>11:40-12:10</td>
+            <td>Formalizing Splitting in Isabelle/HOL</td>
+            <td>G. Bergeron, F. Krasnopol, S. Tourret</td>
+        </tr>
+        <tr>
+            <td>12:10-12:30</td>
+            <td>Sledgehammering without ATPs (short paper)</td>
+            <td>M. Desharnais, J. Blanchette</td>
+        </tr>
+        <tr class="break">
+            <td>12:30-14:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>14:00-15:00</td>
+            <td rowspan="2">Proof of programs</td>
+            <td>Invited talk: Taming Floating-Point Rounding Errors with Proofs</td>
+            <td>Laura Titolo</td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td>Inductive Predicates via Least Fixpoints in Higher-Order Separation Logic</td>
+            <td>R. Krebbers, L. van der Maas, E. Tassi</td>
+        </tr>
+        <tr class="break">
+            <td>15:30-16:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>16:00-16:30</td>
+            <td rowspan="4">Formalization of distributed systems, protocols and hardware</td>
+            <td>Formalising Subject Reduction and Progress for Multiparty Session Processes</td>
+            <td>B. Ekici, T. Kamegai, N. Yoshida</td>
+        </tr>
+        <tr>
+            <td>16:30-17:00</td>
+            <td>Certified Implementability of Global Multiparty Protocols</td>
+            <td>E. Li, T. Wies</td>
+        </tr>
+        <tr>
+            <td>17:00-17:30</td>
+            <td>GOL in GOL in HOL: Verified Circuits in Conway's Game of Life</td>
+            <td>M. Myreen, M. Carneiro</td>
+        </tr>
+        <tr>
+            <td>17:30-18:00</td>
+            <td>Nondeterministic Asynchronous Dataflow in Isabelle/HOL</td>
+            <td>R. Silva, L. Fernet, D. Traytel</td>
+        </tr>
+    </table>
+    <table>
+        <tr class="day-header">
+            <td colspan="4">Monday 29 September</td>
+        </tr>
+        <tr>
+            <td>09:00-09:30</td>
+            <td rowspan="3">Dedicated decision procedures</td>
+            <td>An Isabelle/HOL Formalization of Semi-Thue and Conditional Semi-Thue Systems</td>
+            <td>D. Kim</td>
+        </tr>
+        <tr>
+            <td>09:30-10:00</td>
+            <td>Formalizing concentration inequalities in Rocq: infrastructure and automation</td>
+            <td>R. Affeldt, A. Bruni, C. Cohen, P. Roux, T. Saikawa</td>
+        </tr>
+        <tr>
+            <td>10:00-10:20</td>
+            <td>Towards Automating Permutation Proofs in Coq: A Reflexive Approach with Iterative Deepening Search (Short Paper)</td>
+            <td>N. Hamid</td>
+        </tr>
+        <tr class="break">
+            <td>10:20-11:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td rowspan="3">Security</td>
+            <td>Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs</td>
+            <td>J. Thibault, J. Lenormand, C. Hritcu</td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td>Formalizing the Hidden Number Problem in Isabelle/HOL</td>
+            <td>S. Binder, E. Ren, K. Kosaian</td>
+        </tr>
+        <tr>
+            <td>12:00-12:30</td>
+            <td>On Verifying Secret Control Flow Elimination</td>
+            <td>D. Knothe, O. Bringmann</td>
+        </tr>
+        <tr class="break">
+            <td>12:30-14:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>14:00-14:30</td>
+            <td rowspan="2">Functional programming</td>
+            <td>A Mechanized First-Order Theory of Algebraic Data Types with Pattern Matching</td>
+            <td>J. Cohen</td>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td>Program Optimisations via Hylomorphisms for Extraction of Executable Code</td>
+            <td>D. Perez, M. Paviotti, M. Vollmer</td>
+        </tr>
+        <tr class="break">
+            <td>15:00-15:30</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>15:30-16:00</td>
+            <td rowspan="3">λ-calculus</td>
+            <td>Mechanising Böhm Trees and λη-Completeness</td>
+            <td>C. Tian, M. Norrish</td>
+        </tr>
+        <tr>
+            <td>16:00-16:30</td>
+            <td>Barendregt's Theory of the Lambda-Calculus, Refreshed and Formalized</td>
+            <td>A. Lancelot, B. Accattoli, M. Vemclefs</td>
+        </tr>
+        <tr>
+            <td>16:30-17:00</td>
+            <td>A Verified Cost Model for Call-by-Push-Value</td>
+            <td>Z. Chen, J. Pohjola, C. Rizkallah</td>
+        </tr>
+    </table>
+    <table>
+        <tr class="day-header">
+            <td colspan="4">Tuesday 30 September</td>
+        </tr>
+        <tr>
+            <td>09:00-10:00</td>
+            <td rowspan="2">Reasoning with binders</td>
+            <td>Invited talk: Autosubst: On Mechanising Binders in a General-Purpose Proof Assistant</td>
+            <td>Kathrin Stark</td>
+        </tr>
+        <tr>
+            <td>10:00-10:30</td>
+            <td>Animating MRBNFs: Truly Modular Binding-Aware Datatypes in Isabelle/HOL</td>
+            <td>J. van Brügge, A. Popescu, D. Traytel</td>
+        </tr>
+        <tr class="break">
+            <td>10:30-11:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td rowspan="3">Formalization of algorithms</td>
+            <td>A Formal Analysis of Algorithms for Matroids and Greedoids</td>
+            <td>M. Abdulaziz, T. Ammer, S. Meenakshisundaram, A. Rimpapa</td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td>Verification of the CVM algorithm with a Functional Probabilistic Invariant</td>
+            <td>E. Karayel, S. Watt, D. Khu, K. Meel, Y. Tan</td>
+        </tr>
+        <tr>
+            <td>12:00-12:30</td>
+            <td>Verifying an Efficient Algorithm for Computing Bernoulli Numbers</td>
+            <td>M. Eberl, P. Lammich</td>
+        </tr>
+        <tr class="break">
+            <td>12:30-14:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>14:00-14:30</td>
+            <td rowspan="3">General decision procedures</td>
+            <td>Automatically Generalizing Proofs and Statements</td>
+            <td>A. Gandhi, A. Tadipatri, T. Gowers</td>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td>Canonical for Automated Theorem Proving in Lean</td>
+            <td>C. Norman, J. Avigad</td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td>Verifying Datalog Reasoning with Lean</td>
+            <td>J. Tantow, L. Gerlach, S. Mennicke, M. Krötzsch</td>
+        </tr>
+        <tr class="break">
+            <td>15:30-16:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>16:00-17:00</td>
+            <td colspan="2">Political session</td>
+            <td>Everyone</td>
+        </tr>
+        <tr>
+            <td>17:00-17:30</td>
+            <td colspan="2">Business meeting</td>
+            <td>Y. Forster, C. Keller</td>
+        </tr>
+    </table>
+    <table>
+        <tr class="day-header">
+            <td colspan="4">Wednesday 1 October</td>
+        </tr>
+        <tr>
+            <td>09:00-09:30</td>
+            <td rowspan="3">Formalization of mathematics 1</td>
+            <td>Algebra is half the battle: Verifying presentations for graded unipotent Chevalley groups</td>
+            <td>E. Wang, A. Bhoja, C. Codel, N. Singer</td>
+        </tr>
+        <tr>
+            <td>09:30-10:00</td>
+            <td>Formalising New Mathematics in Isabelle: Diagonal Ramsey</td>
+            <td>L. Paulson</td>
+        </tr>
+        <tr>
+            <td>10:00-10:30</td>
+            <td>A Natural Language Formalization of Perfectoid Rings in Naproche</td>
+            <td>P. Koepke</td>
+        </tr>
+        <tr class="break">
+            <td>10:30-11:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td rowspan="3">Formalization of mathematics 2</td>
+            <td>A Formalization of Divided Powers in Lean</td>
+            <td>A. Chambert-Loir, M. de Frutos-Fernández</td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td>A Formal Proof of Complexity Bounds on Diophantine Equations</td>
+            <td>J. Bayer, M. David</td>
+        </tr>
+        <tr>
+            <td>12:00-12:30</td>
+            <td>Formally verifying a vertical cell decomposition algorithm</td>
+            <td>Y. Bertot, T. Portet</td>
+        </tr>
+        <tr class="break">
+            <td>12:30-14:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>14:00-14:30</td>
+            <td rowspan="3">Category theory and cubical logic</td>
+            <td>Scott’s Representation Theorem and the Univalent Karoubi Envelope</td>
+            <td>A. van der Leer, K. Wullaert, B. Ahrens</td>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td>Formalising Inductive and Coinductive Containers</td>
+            <td>S. Damato, T. Altenkirch, A. Ljungström</td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td>Formalizing colimits in Cat</td>
+            <td>M. Carneiro, E. Riehl</td>
+        </tr>
+        <tr class="break">
+            <td>15:30-16:00</td>
+            <td colspan="3">Break</td>
+        </tr>
+        <tr>
+            <td>16:00-16:30</td>
+            <td rowspan="4">Formalization of logics, regular expressions and AI</td>
+            <td>Abstract, Compositional Consistency: Isabelle/HOL Locales for Completeness à la Fitting</td>
+            <td>A. From, A. Schlichtkrull</td>
+        </tr>
+        <tr>
+            <td>16:30-17:00</td>
+            <td>Finiteness of symbolic derivatives in Lean</td>
+            <td>E. Zhuchko, H. Maarand, M. Veanes, G. Ebner</td>
+        </tr>
+        <tr>
+            <td>17:00-17:30</td>
+            <td>A Certified Proof Checker for Deep Neural Network Verification in Imandra</td>
+            <td>R. Desmartin, O. Isac, E. Komendantskaya, K. Stark, G. Passmore, G. Katz</td>
+        </tr>
+        <tr>
+            <td>17:30-17:50</td>
+            <td>LeanLTL: A unifying framework for linear temporal logics in Lean (Short Paper)</td>
+            <td>E. Vin, K. Miller, D. Fremont</td>
+        </tr>
+    </table>
 
 
 <h3>Organizers, sponsors and local information</h3>
