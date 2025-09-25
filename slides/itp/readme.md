@@ -1,0 +1,3 @@
+Here go Rocq, ITP, Lean slides.
+
+Directory organization: rocq1/affeldt.pdf, ...
