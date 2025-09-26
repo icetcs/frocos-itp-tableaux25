@@ -1,0 +1,3 @@
+Here go TABLEAUX and FroCoS slides.
+
+Directory organization: tableaux1-litak.pdf, ...
