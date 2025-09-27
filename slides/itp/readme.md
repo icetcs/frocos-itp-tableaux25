@@ -10,6 +10,8 @@ Here go Rocq, ITP, Lean slides.
 
 rocq3-gros-ownlaptop
 
+[rocq4-viennot](rocq4-viennot.pdf)
+
 [rocq4-mary](rocq4-mary.pdf)
 
 
