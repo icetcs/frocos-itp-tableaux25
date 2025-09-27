@@ -3,6 +3,8 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux1-classen.pdf](tableaux1-classen.pdf)
 
+[tableaux1-litak.pdf](tableaux1-litak.pdf)
+
 [tableaux1-greati.pdf](tableaux1-greati.pdf)
 
 
