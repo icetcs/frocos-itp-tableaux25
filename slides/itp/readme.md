@@ -4,6 +4,8 @@ Here go Rocq, ITP, Lean slides.
 
 [rocq1-wulfman](rocq1-wulfman.pdf)
 
+[rocq2-saikawa](rocq2-saikawa.pdf)
+
 [rocq2-torrini.pdf](rocq2-torrini.pdf)
 
 rocq3-gros-ownlaptop
