@@ -25,6 +25,7 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux4-dalmonte](tableaux4-dalmonte.pdf)
 
+[tableaux4-grotenhuis](tableaux4-grotenhuis.pdf)
 
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
