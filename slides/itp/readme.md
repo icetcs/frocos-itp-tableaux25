@@ -6,19 +6,23 @@ Here go Rocq, ITP, Lean slides.
 
 [rocq2-saikawa](rocq2-saikawa.pdf)
 
-[rocq2-torrini.pdf](rocq2-torrini.pdf)
+[rocq2-torrini](rocq2-torrini.pdf)
 
 rocq3-gros-ownlaptop
 
-[itp5-knothe.pdf](itp5-knothe.pdf)
+[rocq4-mary](rocq4-mary.pdf)
+
+
+[itp5-knothe](itp5-knothe.pdf)
 
 itp10-norman-ownlaptop
 
-[itp12-paulson.pdf](itp12-paulson.pdf)
+[itp12-paulson](itp12-paulson.pdf)
 
 
 lean1-breitner-ownlaptop
 
-[lean4-duponcheel.pdf](lean4-duponcheel.pdf)
+[lean4-duponcheel](lean4-duponcheel.pdf)
 
 lean4-norman-ownlaptop
+
