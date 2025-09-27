@@ -16,6 +16,8 @@ Here go Rocq, ITP, Lean slides.
 
 [rocq4-viennot](rocq4-viennot.pdf)
 
+[rocq4-litak](rocq4-litak.pdf)
+
 [rocq4-mary](rocq4-mary.pdf)
 
 
