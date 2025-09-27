@@ -8,7 +8,9 @@ Here go Rocq, ITP, Lean slides.
 
 [rocq2-torrini](rocq2-torrini.pdf)
 
-rocq3-gros-ownlaptop
+[rocq3-gros-nodemo](rocq3-gros-nodemo.pdf)
+
+[rocq3-gros-demo](rocq3-gros.pdf)
 
 [rocq4-viennot](rocq4-viennot.pdf)
 
