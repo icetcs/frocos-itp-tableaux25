@@ -8,9 +8,12 @@ Here go TABLEAUX and FroCoS slides.
 [tableaux1-greati.pdf](tableaux1-greati.pdf)
 
 
-[tableaux2-gore.pdf](tableaux2-gore.pdf)
+[tableaux2-ramanayake](tableaux2-ramanayake.pdf)
+
+[tableaux2-gore](tableaux2-gore.pdf)
 
 [tableaux2-truccodalmas.pdf](tableaux2-truccodalmas.pdf)
+
 
 [tableaux3-butte.pdf](tableaux3-butte.pdf)
 
