@@ -3,7 +3,10 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux1-classen.pdf](tableaux1-classen.pdf)
 
-[tableaux2-gore.pdf](tableaux2-gore.pdf]
+[tableaux1-greati.pdf](tableaux1-greati.pdf)
+
+
+[tableaux2-gore.pdf](tableaux2-gore.pdf)
 
 [tableaux2-truccodalmas.pdf](tableaux2-truccodalmas.pdf)
 
