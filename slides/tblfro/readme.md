@@ -27,6 +27,8 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux4-grotenhuis](tableaux4-grotenhuis.pdf)
 
+[tableaux4-padhiar](tableaux4-padhiar.pdf)
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
 frocos1-alrabbaa will send Google Slides link
