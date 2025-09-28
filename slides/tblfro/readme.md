@@ -47,6 +47,10 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux7-eisenhofer](tableaux7-eisenhofer.pdf)
 
+[tableaux-bm](tableaux-bm.pdf)
+
+[tableaux-bm-pc-lo](tableaux-bm-pc-lo.pdf)
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
 frocos1-alrabbaa will send Google Slides link
