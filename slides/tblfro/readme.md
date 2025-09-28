@@ -30,12 +30,20 @@ Here go TABLEAUX and FroCoS slides.
 [tableaux4-padhiar](tableaux4-padhiar.pdf)
 
 
+[tableaux5-jalali](tableaux5-jalali.pdf)
+
 [tableaux5-barrosonascimento](tableaux5-barrosonascimento.pdf)
 
+
+[tableaux6-gantait](tableaux6-gantait.pdf)
 
 [tableaux6-acclavio](tableaux6-acclavio.pdf)
 
 [tableaux6-wan](tableaux6-wan.pdf)
+
+
+[tableaux7-heidler](tableaux7-heidler.pdf)
+
 
 
 [frocos1-kriegel](frocos1-kriegel.pdf)
