@@ -26,13 +26,19 @@ Here go Rocq, ITP, Lean slides.
 
 [itp1-desharnais](itp1-tourret.pdf)
 
-## ITP -2 
+## ITP - 2 
 
 itp2-titolo-ownlaptop
 
 [itp2-krebbers](itp2-krebbers.pdf)
 
-[itp3-yoshida](itp3-joshida.pdf)
+## ITP - 3
+
+[itp3-yoshida](itp3-yoshida.pdf)
+
+[itp3-li](itp3-li.pdf)
+
+[itp3-gsilva](itp3-gsilva.pdf)
 
 [itp5-knothe](itp5-knothe.pdf)
 
