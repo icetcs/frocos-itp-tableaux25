@@ -23,6 +23,8 @@ Here go Rocq, ITP, Lean slides.
  [itp1-desharnais](itp1-desharnais.pdf)
  [itp1-desharnais](itp1-tourret.pdf)
 
+[itp3-yoshida](itp3-joshida.pdf)
+
 [itp5-knothe](itp5-knothe.pdf)
 
 itp10-norman-ownlaptop
