@@ -20,6 +20,8 @@ Here go Rocq, ITP, Lean slides.
 
 [rocq4-mary](rocq4-mary.pdf)
 
+ [itp1-desharnais](itp1-desharnais.pdf)
+ [itp1-desharnais](itp1-tourret.pdf)
 
 [itp5-knothe](itp5-knothe.pdf)
 
