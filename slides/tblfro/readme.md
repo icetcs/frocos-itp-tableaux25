@@ -41,10 +41,11 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux6-wan](tableaux6-wan.pdf)
 
+[tableaux7-das](tableaux7-das.pdf)
 
 [tableaux7-heidler](tableaux7-heidler.pdf)
 
-
+[tableaux7-eisenhofer](tableaux7-eisenhofer.pdf)
 
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
