@@ -62,8 +62,12 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux9-eisenhofer2](tableaux9-eisenhofer2.pdf)
 
+[frocos1-debortoli](frocos1-debortoli.pdf)
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
-frocos1-alrabbaa will send Google Slides link
+[frocos1-alrabbaa](https://docs.google.com/presentation/d/1d8zN321z90x2H_5QjWHqG5Q2rfn908sTEex9VBco1LQ/edit?usp=sharing)
+
+
 
 [frocos5-schon](frocos5-schon.pdf)
