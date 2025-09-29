@@ -58,6 +58,10 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux9-sierramiranda](tableaux9-sierramiranda.pdf)
 
+[tableaux9-eisenhofer1](tableaux9-eisenhofer1.pdf)
+
+[tableaux9-eisenhofer2](tableaux9-eisenhofer2.pdf)
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
 frocos1-alrabbaa will send Google Slides link
