@@ -51,8 +51,11 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux-bm-pc-lo](tableaux-bm-pc-lo.pdf)
 
+[tableaux8-olarte](tableaux8-olarte.pdf)
+
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
 frocos1-alrabbaa will send Google Slides link
 
-
+[frocos5-schon](frocos5-schon.pdf)
