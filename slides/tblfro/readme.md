@@ -55,6 +55,9 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux8-ferrari](tableaux8-ferrari.pdf)
 
+
+[tableaux9-sierramiranda](tableaux9-sierramiranda.pdf)
+
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
 frocos1-alrabbaa will send Google Slides link
