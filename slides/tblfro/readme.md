@@ -53,6 +53,7 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux8-olarte](tableaux8-olarte.pdf)
 
+[tableaux8-ferrari](tableaux8-ferrari.pdf)
 
 [frocos1-kriegel](frocos1-kriegel.pdf)
 
