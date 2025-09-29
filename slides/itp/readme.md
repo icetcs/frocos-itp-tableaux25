@@ -54,9 +54,17 @@ itp2-titolo-ownlaptop
 
 [itp5-knothe](itp5-knothe.pdf)
 
-## ITP - 5
+## ITP - 6
 
-[itp6-perez](itp5-perez.pdf)
+[itp6-perez](itp6-perez.pdf)
+
+## ITP - 7
+
+[itp7-norrish](itp7-norrish.pdf)
+
+[itp7-lancelot](itp7-lancelot.pdf)
+
+[itp7-chen](itp7-chen.pdf)
 
 itp10-norman-ownlaptop
 
