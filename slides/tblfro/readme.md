@@ -95,3 +95,8 @@ Here go TABLEAUX and FroCoS slides.
 [frocos6-cailler](frocos6-cailler.pdf)
 
 [frocos6-moller](frocos6-moller.pdf)
+
+[frocos6-toledo](frocos6-toledo.pdf)
+
+
+[frocos7-przybocki](frocos7-przybocki.pdf)
