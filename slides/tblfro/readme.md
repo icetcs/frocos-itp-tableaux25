@@ -69,9 +69,9 @@ Here go TABLEAUX and FroCoS slides.
 [frocos1-alrabbaa](https://docs.google.com/presentation/d/1d8zN321z90x2H_5QjWHqG5Q2rfn908sTEex9VBco1LQ/edit?usp=sharing)
 
 
-[frocos2-petitjean](frocos3-petitjean.pdf)
+[frocos2-petitjean](frocos2petitjean.pdf)
 
-[frocos2-gamsakhurdia](frocos3-gamsakhurdia.pdf)
+[frocos2-gamsakhurdia](frocos2-gamsakhurdia.pdf)
 
 [frocos3-avanzini](frocos3-avanzini.pdf)
 
