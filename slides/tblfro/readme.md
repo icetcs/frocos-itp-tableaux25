@@ -71,6 +71,8 @@ Here go TABLEAUX and FroCoS slides.
 
 [frocos2-petitjean](frocos3-petitjean.pdf)
 
+[frocos2-gamsakhurdia](frocos3-gamsakhurdia.pdf)
+
 [frocos3-avanzini](frocos3-avanzini.pdf)
 
 
