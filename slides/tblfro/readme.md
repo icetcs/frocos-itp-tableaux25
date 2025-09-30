@@ -80,6 +80,8 @@ Here go TABLEAUX and FroCoS slides.
 
 [frocos3-frontull](frocos3-frontull.pdf)
 
+[frocos4-fuhs](frocos4-fuhs.pdf)
+
 [frocos4-nishida](frocos4-nishida.pdf)
 
 
