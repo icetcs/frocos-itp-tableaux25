@@ -89,9 +89,27 @@ itp10-norman-ownlaptop
 
 [itp12-koepke](itp12-koepke.pdf)
 
+## ITP - 13
+
+[itp13-fernandez](itp13-fernandez.pdf)
+
+[itp13-david](itp13-david.pdf)
+
+[itp13-ammer](itp13-ammer.pdf)
+
+## ITP - 14
+
+[itp14-ahrens](itp14-ahrens.pdf)
+
+[itp14-damato](itp14-damato.pdf)
+
+[itp12-koepke](itp14-carneiro.pdf)
+
 ## ITP - 15
 
-[itp15-fernandez](itp15-fernandez.pdf)
+[itp15-zhuchko](itp15-zhuchko.pdf)
+
+[itp15-isac](itp15-isac.pdf)
 
 [itp15-vin](itp15-vin.pdf)
 
