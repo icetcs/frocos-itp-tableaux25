@@ -107,6 +107,8 @@ itp10-norman-ownlaptop
 
 ## ITP - 15
 
+[itp15-schlichtkrull](itp15-schlichtkrull.pdf)
+
 [itp15-zhuchko](itp15-zhuchko.pdf)
 
 [itp15-isac](itp15-isac.pdf)
