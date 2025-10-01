@@ -81,8 +81,19 @@ itp2-titolo-ownlaptop
 
 itp10-norman-ownlaptop
 
+## ITP - 12
+
+[itp12-codel](itp12-codel.pdf)
+
 [itp12-paulson](itp12-paulson.pdf)
 
+[itp12-koepke](itp12-koepke.pdf)
+
+## ITP - 15
+
+[itp15-fernandez](itp15-fernandez.pdf)
+
+[itp15-vin](itp15-vin.pdf)
 
 lean1-breitner-ownlaptop
 
