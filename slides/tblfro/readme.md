@@ -99,4 +99,6 @@ Here go TABLEAUX and FroCoS slides.
 [frocos6-toledo](frocos6-toledo.pdf)
 
 
+[frocos7-raya](frocos7-raya.pdf)
+
 [frocos7-przybocki](frocos7-przybocki.pdf)
