@@ -105,4 +105,10 @@ Here go TABLEAUX and FroCoS slides.
 
 [frocos7-masina](frocos7-masina.pdf)
 
-[frocos8-coltellacci](frocos7-coltellacci.pdf)
+
+
+[frocos8-coltellacci](frocos8-coltellacci.pdf)
+
+[frocos-bm-pc](frocos-bm-pc.pdf)
+
+[frocos-bm-lo](frocos-bm-lo.pdf)
