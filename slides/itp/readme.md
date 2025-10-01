@@ -97,6 +97,20 @@ itp10-norman-ownlaptop
 
 [itp13-ammer](itp13-ammer.pdf)
 
+## ITP - 14
+
+[itp14-ahrens](itp14-ahrens.pdf)
+
+[itp14-damato](itp14-damato.pdf)
+
+[itp12-koepke](itp14-carneiro.pdf)
+
+## ITP - 15
+
+[itp15-zhuchko](itp15-zhuchko.pdf)
+
+[itp15-isac](itp15-isac.pdf)
+
 [itp15-vin](itp15-vin.pdf)
 
 lean1-breitner-ownlaptop
