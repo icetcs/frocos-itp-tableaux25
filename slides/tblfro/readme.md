@@ -102,3 +102,5 @@ Here go TABLEAUX and FroCoS slides.
 [frocos7-raya](frocos7-raya.pdf)
 
 [frocos7-przybocki](frocos7-przybocki.pdf)
+
+[frocos7-masina](frocos7-masina.pdf)
