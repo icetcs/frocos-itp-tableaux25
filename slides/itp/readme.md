@@ -123,9 +123,9 @@ lean1-breitner-ownlaptop
 
 ## Lean - 2
 
-barba costa still to receive
+[lean2-pan](lean2-pan.pdf)
 
-[lean3-firsching google slides, requires sign-in](https://docs.google.com/presentation/d/1p7IhCJOD_j4EtKTG-xRhybvURDrknRlLKOdHuNWvw-Y/edit?usp=sharing&resourcekey=0-aXTaSlVB30va64xKkAgbSg&ts=68ddd638)
+[lean2-firsching google slides, requires sign-in](https://docs.google.com/presentation/d/1p7IhCJOD_j4EtKTG-xRhybvURDrknRlLKOdHuNWvw-Y/edit?usp=sharing&resourcekey=0-aXTaSlVB30va64xKkAgbSg&ts=68ddd638)
 
 [lean2-gerlach](lean2-gerlach.pdf)
 
