@@ -115,9 +115,9 @@ itp10-norman-ownlaptop
 
 [itp15-vin](itp15-vin.pdf)
 
-lean1-breitner-ownlaptop
-
 ## Lean - 1 
+
+lean1-breitner-ownlaptop
 
 [lean1-chan](lean1-chan.pdf)
 
