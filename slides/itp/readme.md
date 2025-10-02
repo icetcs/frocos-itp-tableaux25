@@ -141,7 +141,7 @@ discussion session only
 
 [lean4-alama](lean4-alama.pdf)
 
-gerbscheid to receive still
+[lean4-gerbscheid](lean4-gerbscheid.pdf) will present from own laptop
 
 lean4-norman-ownlaptop
 
