@@ -117,9 +117,11 @@ itp10-norman-ownlaptop
 
 lean1-breitner-ownlaptop
 
-
+## Lean - 1 
 
 [lean1-chan](lean1-chan.pdf)
+
+## Lean - 2
 
 [lean2-pan](lean2-pan.pdf)
 
