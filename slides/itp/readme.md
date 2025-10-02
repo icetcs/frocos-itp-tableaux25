@@ -117,11 +117,11 @@ itp10-norman-ownlaptop
 
 lean1-breitner-ownlaptop
 
-https://eu01web.zoom.us/s/4646981569
+
 
 [lean1-chan](lean1-chan.pdf)
 
-[lean2-pan](lean1-pan.pdf)
+[lean2-pan](lean2-pan.pdf)
 
 
 [lean4-duponcheel](lean4-duponcheel.pdf)
