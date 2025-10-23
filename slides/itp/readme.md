@@ -6,7 +6,11 @@
 
 [rocq1-wulfman](rocq1-wulfman.pdf)
 
+rocq1-jean-missing
+
 ## Rocq 2
+
+rocq2-benjamin-missing
 
 [rocq2-saikawa](rocq2-saikawa.pdf)
 
@@ -14,11 +18,17 @@
 
 ## Rocq 3
 
+rocq3-gontard-missing
+
 [rocq3-gros-nodemo](rocq3-gros-nodemo.pdf)
 
 [rocq3-gros-demo](rocq3-gros.pdf)
 
+rocq3-rosain-missing
+
 ## Rocq 4
+
+rocq4-stoskopf missing
 
 [rocq4-viennot](rocq4-viennot.pdf)
 
@@ -29,6 +39,7 @@
 
 ## ITP 1
 
+itp1-lachnitt-missing
 
 [itp1-tourret](itp1-tourret.pdf)
 
@@ -36,7 +47,7 @@
 
 ## ITP 2 
 
-itp2-titolo-ownlaptop
+itp2-titolo-missing
 
 [itp2-krebbers](itp2-krebbers.pdf)
 
@@ -46,9 +57,13 @@ itp2-titolo-ownlaptop
 
 [itp3-li](itp3-li.pdf)
 
+itp3-myreen-missing
+
 [itp3-gsilva](itp3-gsilva.pdf)
 
 ## ITP 4
+
+itp4-kim-missing
 
 [itp4-bruni](itp4-bruni.pdf)
 
@@ -64,6 +79,8 @@ itp2-titolo-ownlaptop
 
 ## ITP 6
 
+itp6-cohen-missing
+
 [itp6-perez](itp6-perez.pdf)
 
 ## ITP 7
@@ -73,6 +90,12 @@ itp2-titolo-ownlaptop
 [itp7-lancelot](itp7-lancelot.pdf)
 
 [itp7-chen](itp7-chen.pdf)
+
+# ITP 8
+
+itp8-stark-missing
+
+itp8-vanbrugge-missing
 
 
 ## ITP 9
@@ -85,7 +108,9 @@ itp2-titolo-ownlaptop
 
 ## ITP 10
 
-itp10-norman-ownlaptop
+itp10-gandhi-missing
+
+itp10-norman-missing
 
 [itp10-tantow](itp10-tantow.pdf)
 
@@ -125,7 +150,7 @@ itp10-norman-ownlaptop
 
 ## Lean 1 
 
-lean1-breitner-ownlaptop
+lean1-breitner-missing
 
 [lean1-chan](lean1-chan.pdf)
 
@@ -149,8 +174,8 @@ discussion session only
 
 [lean4-alama](lean4-alama.pdf)
 
-[lean4-gerbscheid](lean4-gerbscheid.pdf) will present from own laptop
+[lean4-gerbscheid](lean4-gerbscheid.pdf)
 
-lean4-norman-ownlaptop
+lean4-norman-missing
 
 
