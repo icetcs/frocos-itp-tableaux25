@@ -76,7 +76,7 @@
 
 ## TABLEAUX+FroCoS
 
-[tblfro-chaudhuri] (https://dub.sh/profound/slides)
+[tblfro-chaudhuri](https://dub.sh/profound/slides)
 
 ## FroCoS 1
 

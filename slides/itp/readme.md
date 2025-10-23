@@ -18,13 +18,13 @@ rocq2-benjamin-missing
 
 ## Rocq 3
 
-rocq3-gontard-missing
+[rocq3-gontard](rocq3-gontard.pdf)
 
 [rocq3-gros-nodemo](rocq3-gros-nodemo.pdf)
 
 [rocq3-gros-demo](rocq3-gros.pdf)
 
-rocq3-rosain-missing
+[rocq3-rosain](rocq3-rosain.pdf)
 
 ## Rocq 4
 
@@ -150,7 +150,7 @@ itp10-norman-missing
 
 ## Lean 1 
 
-lean1-breitner-missing
+[lean1-breitner](lean1-breitner.pdf)
 
 [lean1-chan](lean1-chan.pdf)
 
