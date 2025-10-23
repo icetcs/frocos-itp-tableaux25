@@ -55,6 +55,7 @@ Here go TABLEAUX and FroCoS slides.
 
 [tableaux8-ferrari](tableaux8-ferrari.pdf)
 
+[tableaux8-motalebi](tableaux8-motalebi.pdf)
 
 [tableaux9-sierramiranda](tableaux9-sierramiranda.pdf)
 
@@ -108,6 +109,8 @@ Here go TABLEAUX and FroCoS slides.
 
 
 [frocos8-coltellacci](frocos8-coltellacci.pdf)
+
+[frocos8-sindoni](frocos8-sindoni.pdf)
 
 [frocos-bm-pc](frocos-bm-pc.pdf)
 
