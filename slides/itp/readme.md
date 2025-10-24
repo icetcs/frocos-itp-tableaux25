@@ -10,7 +10,7 @@ rocq1-jean-missing
 
 ## Rocq 2
 
-rocq2-benjamin-missing
+[rocq2-benjamin](rocq2-benjamin.pdf)
 
 [rocq2-saikawa](rocq2-saikawa.pdf)
 
@@ -39,7 +39,7 @@ rocq4-stoskopf missing
 
 ## ITP 1
 
-itp1-lachnitt-missing
+[itp1-lachnitt](itp1-lachnitt.pdf)
 
 [itp1-tourret](itp1-tourret.pdf)
 
@@ -47,7 +47,7 @@ itp1-lachnitt-missing
 
 ## ITP 2 
 
-itp2-titolo-missing
+[itp2-titolo](itp2-titolo.pdf)
 
 [itp2-krebbers](itp2-krebbers.pdf)
 
@@ -57,13 +57,13 @@ itp2-titolo-missing
 
 [itp3-li](itp3-li.pdf)
 
-itp3-myreen-missing
+[itp3-myreen](itp3-myreen.pdf)
 
 [itp3-gsilva](itp3-gsilva.pdf)
 
 ## ITP 4
 
-itp4-kim-missing
+[itp4-kim](itp4-kim.pdf)
 
 [itp4-bruni](itp4-bruni.pdf)
 
@@ -110,7 +110,7 @@ itp8-vanbrugge-missing
 
 itp10-gandhi-missing
 
-itp10-norman-missing
+[itp10-norman](itp10-norman.pdf)
 
 [itp10-tantow](itp10-tantow.pdf)
 
@@ -158,15 +158,11 @@ itp10-norman-missing
 
 [lean2-barba](lean2-barba.pdf)
 
-[lean2-firsching google slides, requires sign-in](https://docs.google.com/presentation/d/1p7IhCJOD_j4EtKTG-xRhybvURDrknRlLKOdHuNWvw-Y/edit?usp=sharing&resourcekey=0-aXTaSlVB30va64xKkAgbSg&ts=68ddd638)
+[lean2-firsching](https://docs.google.com/presentation/d/1p7IhCJOD_j4EtKTG-xRhybvURDrknRlLKOdHuNWvw-Y/edit?usp=sharing&resourcekey=0-aXTaSlVB30va64xKkAgbSg&ts=68ddd638) (Google Slides, requires sign-in)
 
 [lean2-gerlach](lean2-gerlach.pdf)
 
 [lean2-pan](lean2-pan.pdf)
-
-## Lean 3
-
-discussion session only
 
 ## Lean 4 
 
@@ -176,6 +172,7 @@ discussion session only
 
 [lean4-gerbscheid](lean4-gerbscheid.pdf)
 
-lean4-norman-missing
+[lean4-norman](lean4-norman.pdf)
+
 
 
