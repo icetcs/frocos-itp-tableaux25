@@ -79,7 +79,7 @@ rocq4-stoskopf missing
 
 ## ITP 6
 
-itp6-cohen-missing
+[itp6-cohen](itp6-cohen.pdf)
 
 [itp6-perez](itp6-perez.pdf)
 
