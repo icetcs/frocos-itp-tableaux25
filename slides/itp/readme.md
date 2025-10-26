@@ -108,7 +108,7 @@ itp8-vanbrugge-missing
 
 ## ITP 10
 
-itp10-gandhi-missing
+[itp10-gandhi](itp10-gandhi.pdf)
 
 [itp10-norman](itp10-norman.pdf)
 
