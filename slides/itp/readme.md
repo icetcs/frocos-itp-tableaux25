@@ -59,7 +59,7 @@ rocq4-stoskopf missing
 
 [itp3-myreen](itp3-myreen.pdf)
 
-[itp3-gsilva](itp3-gsilva.pdf)
+[itp3-silva](itp3-silva.pdf)
 
 ## ITP 4
 
@@ -124,7 +124,7 @@ itp10-gandhi-missing
 
 ## ITP 13
 
-[itp13-fernandez](itp13-fernandez.pdf)
+[itp13-defrutos](itp13-defrutos.pdf)
 
 [itp13-david](itp13-david.pdf)
 
