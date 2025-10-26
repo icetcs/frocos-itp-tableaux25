@@ -91,7 +91,7 @@ rocq4-stoskopf missing
 
 [itp7-chen](itp7-chen.pdf)
 
-# ITP 8
+## ITP 8
 
 itp8-stark-missing
 
