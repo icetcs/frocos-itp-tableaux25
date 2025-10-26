@@ -81,7 +81,7 @@ rocq4-stoskopf missing
 
 [itp6-cohen](itp6-cohen.pdf)
 
-[itp6-perez](itp6-perez.pdf)
+[itp6-castro](itp6-castro.pdf)
 
 ## ITP 7
 
