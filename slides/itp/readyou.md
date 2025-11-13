@@ -28,11 +28,11 @@
 
 ## Rocq 4
 
-rocq4-stoskopf missing
-
-[rocq4-viennot](rocq4-viennot.pdf)
+[rocq4-stoskopf](rocq4-stoskopf.pdf)
 
 [rocq4-litak](rocq4-litak.pdf)
+
+[rocq4-viennot](rocq4-viennot.pdf)
 
 [rocq4-mary](rocq4-mary.pdf)
 
